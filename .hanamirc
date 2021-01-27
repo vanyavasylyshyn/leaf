@@ -1,0 +1,3 @@
+project=leaf
+test=rspec
+template=erb
